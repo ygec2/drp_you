@@ -26,3 +26,5 @@ Using all kind of automated software that costs too much.
 Too much costs within aftersales.
 
 marketing strategy -  social media marketing
+
+WooCommerce
